@@ -1,0 +1,118 @@
+  /* body {
+    background-color: rgba(65, 79, 160, 0.566);
+  }
+
+
+  /*div{ 
+     width: 300px;
+     height: 300px;
+     border-radius: 300px;
+   padding-top: 100px; 
+   padding-left: 100px;
+   padding-bottom: 100px;
+   padding-right: 100px;
+   background-color: rgba(102, 255, 0, 0.82);
+   padding: 100px  50%  ;
+  
+  margin-left: 50%;
+  margin-right: 50%;
+  
+   background-color: rgba(117, 136, 159, 0.858);
+  }
+  
+  
+  <body background="file:///C:/Users/~YnT~/Downloads/tenor.gif" >
+
+  </body>   */
+ 
+ .div #Agitin divi{
+     
+    border-top-color: white;
+   border-right-color: pink ;
+   border-bottom-color: red ;
+   border-left-color: blue ;
+
+  }
+   
+  input{
+    outline-offset: 7px;
+    outline-style: double;
+    outline-width: 8px;
+    outline-color: rgb(0, 0, 0);
+
+    border-top-color: white;
+   border-right-color: pink ;
+   border-bottom-color: red ;
+   border-left-color: blue ;
+   
+   
+  
+  }
+  
+  input:hover{
+    outline-offset: 9px;
+    outline-style: ridge ;
+    outline-width: 10px;
+    outline-color: rgba(168, 191, 146, 0.856);
+             
+  
+  
+  
+  
+  
+  
+    border-top-color: white;
+    border-right-color: pink ;
+    border-bottom-color: red ;
+    border-left-color: blue ;  
+  
+    
+  
+  
+  
+}
+  
+  input{
+    margin: 50px
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  }
+
+  input:focus{
+    outline-offset: 11px;
+    outline-style: outset;
+    outline-width: 12px;
+    outline-color: rgb(12, 54, 68);
+  
+    border-top-color: white;
+    border-right-color: pink ;
+    border-bottom-color: red ;
+    border-left-color: blue ;
+ 
+  
+  
+  
+  }
+
+  input{
+   border-radius: 1px ;
+  }
+   border-top-color white
+   border-right-color pink 
+   border-bottom-color red 
+   border-left-color blue 
+
+
+
+   border-top-color: white;
+   border-right-color: pink ;
+   border-bottom-color: red ;
+   border-left-color: blue ;

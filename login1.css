@@ -1,0 +1,32 @@
+input{
+    white-space: pre;
+   }
+input{
+    outline-offset: 7px;
+    outline-style: double;
+    outline-width: 8px;
+    outline-color: rgb(0, 0, 0);
+
+    border-top-color: white;
+    border-right-color: pink ;
+    border-bottom-color: red ;
+    border-left-color: blue ;
+     
+}
+  
+  input:hover{
+    outline-offset: 9px;
+    outline-style: ridge ;
+    outline-width: 10px;
+    outline-color: rgba(168, 191, 146, 0.856);
+  }
+  
+  input{
+    margin: 50px
+  }
+  input:focus{
+    outline-offset: 11px;
+    outline-style: dashed;
+    outline-width: 12px;
+    outline-color: rgb(12, 54, 68);
+  }
